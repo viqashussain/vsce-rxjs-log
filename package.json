@@ -2,7 +2,11 @@
 	"name": "rxjs-subscribe-cl",
 	"displayName": "rxjs-subscribe-cl",
 	"description": "An easy shortcut to quickly set subscribe to an rxjs observable and console.log the output",
-	"version": "0.0.1",
+	"version": "1.0.0",
+	"icon": "icon.png",
+	"publisher": "viqashussain",
+	"license": "UNLICENSED",
+	"repository": {"url": "https://github.com/viqashussain/vsce-rxjs-subscribe-cl"},
 	"engines": {
 		"vscode": "^1.36.0"
 	},
