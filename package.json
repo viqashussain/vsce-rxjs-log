@@ -2,7 +2,7 @@
 	"name": "rxjs-subscribe-cl",
 	"displayName": "rxjs-subscribe-cl",
 	"description": "An easy shortcut to quickly set subscribe to an rxjs observable and console.log the output",
-	"version": "1.0.0",
+	"version": "1.0.4",
 	"icon": "icon.png",
 	"publisher": "viqashussain",
 	"license": "UNLICENSED",

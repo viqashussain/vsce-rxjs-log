@@ -6,12 +6,6 @@ A very simple vs code extension shortcut that will add a subscribe and console.l
 
 The default key binding is ctrl+2.
 
-\(demonstration.gif\)
-
-## Release Notes
-
-### 1.0.0
-
-Initial release of rxjs-subscribe-cl
+![demonstration](https://media.giphy.com/media/UsSXyHPnwukad6GbNu/giphy.gif)
 
 **Enjoy!**
